@@ -1,6 +1,4 @@
-# ArpOn_releases
-
-Plaits: Macro oscillator, with arpeggios
+# ArpOn - Plaits: Macro oscillator, with arpeggios
 
 Acts like a normal plaits, until you enable arpeggios in the settings
 
